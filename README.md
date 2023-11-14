@@ -12,9 +12,7 @@ Zamanında GitHub'da paylaşmak için yaptığım bir uygulamaydı. Sadece eğit
 # GÖRSELLER
 ![1](https://github.com/sanershi/eokul/assets/73155590/78736f8b-74f8-4ab2-9b3f-137a68f3ec05)
 ![2](https://github.com/sanershi/eokul/assets/73155590/a104cb52-4ce8-4f05-a9d4-db0fbf2ff85c)
-![3](https://github.com/sanershi/eokul/assets/73155590/dfbbe9ad-ed77-45ff-9304-8541abc8ad8c)
 ![4](https://github.com/sanershi/eokul/assets/73155590/4dec6838-3fa8-4a7b-9b95-24de94395376)
-![5](https://github.com/sanershi/eokul/assets/73155590/9d72aa2d-ce1e-4c33-bada-49eb8a83e875)
 
 # ÖNEMLİ NOT
 İndiren kişilerle hiç bir alakam yoktur. Bu projeden bu programdan özenip yapılan uygulamalardan programlardan ve benzeri şeylerle hiç bir şekilde ilgi alakam veya sorumluluğum yoktur. Buna benzer proje gibi şeyler yapılan ve bana suç atan kişilerle alakam yoktur.
